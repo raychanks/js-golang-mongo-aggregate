@@ -1,0 +1,15 @@
+{
+  "name": "js-golang-mongo-aggregate",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Ray Chan <34273644+raychanks@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "dedent": "^0.7.0",
+    "jest": "^27.0.6"
+  }
+}
